@@ -1,2 +1,2 @@
-# Сhat_front
+# Chat_front
 Front-end for console_chat
